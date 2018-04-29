@@ -7,7 +7,7 @@ ddccontrol-db (20171217-1) unstable; urgency=medium
 ddccontrol-db (20170716-1) unstable; urgency=medium
 
   * debian/compat: increased compatibility level to 10
-  * debian/control: 
+  * debian/control:
     * updated homepage to GitHub
     * updated VCS URLs to GitHub
     * updated build depends to match debhelper compatibility level
