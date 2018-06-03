@@ -1,8 +1,9 @@
-ddccontrol-db (20180602-1) UNRELEASED; urgency=medium
+ddccontrol-db (20180602-1) unstable; urgency=medium
 
   * New upstream release
+  * debian/changelog: remove trailing newline
 
- -- Miroslav Kravec <kravec.miroslav@gmail.com>  Sun, 03 Jun 2018 08:44:05 +0200
+ -- Miroslav Kravec <kravec.miroslav@gmail.com>  Sun, 03 Jun 2018 08:58:26 +0200
 
 ddccontrol-db (20171217-2) unstable; urgency=medium
 
