@@ -1,3 +1,9 @@
+ddccontrol-db (20180602-1) UNRELEASED; urgency=medium
+
+  * New upstream release
+
+ -- Miroslav Kravec <kravec.miroslav@gmail.com>  Sun, 03 Jun 2018 08:44:05 +0200
+
 ddccontrol-db (20171217-2) unstable; urgency=medium
 
   * debian/changelog: fix file-contains-trailing-whitespace
