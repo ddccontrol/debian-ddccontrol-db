@@ -3,7 +3,7 @@ Section: utils
 Priority: optional
 Maintainer: Miroslav Kravec <kravec.miroslav@gmail.com>
 Homepage: https://github.com/ddccontrol/ddccontrol-db
-Build-Depends: debhelper (>= 11)
+Build-Depends: debhelper-compat (= 12)
 Build-Depends-Indep: intltool
 Standards-Version: 4.1.4
 Vcs-Git: https://github.com/ddccontrol/debian-ddccontrol-db.git
