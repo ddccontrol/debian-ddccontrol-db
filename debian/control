@@ -6,7 +6,6 @@ Homepage: https://github.com/ddccontrol/ddccontrol-db
 Build-Depends: debhelper-compat (= 13)
 Build-Depends-Indep: intltool
 Standards-Version: 4.7.2
-Rules-Requires-Root: no
 Vcs-Git: https://salsa.debian.org/debian/ddccontrol-db.git
 Vcs-Browser: https://salsa.debian.org/debian/ddccontrol-db
 
